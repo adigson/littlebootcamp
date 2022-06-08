@@ -1043,7 +1043,6 @@ form div{
   color: #fff;
  }
  .navbar-toggler{
-  border-color: aliceblue;
   box-shadow: none;
  } 
  .navbar-toggler:hover, .active{
