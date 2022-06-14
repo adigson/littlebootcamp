@@ -87,6 +87,14 @@ transition: 0.5s;
   padding: 5px 10px;
   font-size: 12px;
 }
+h1 .donate #charity {
+  margin-top: 150px;
+  font-size: 60px;
+  font-weight: 700;
+  color: #ffff;
+  text-align: center;
+  padding: 10px 5px;
+}
 .btn{
   background-color: #f06540;
   color:#fff;
